@@ -1,8 +1,8 @@
 /*
 name: Devon Maguire
-sbuid: 109284550
+date: 11/14/2014
 */
-#include "hw8.h"
+#include "string.h"
 #include <stdio.h>
 
 size_t hw_strlen (const char *str) {
