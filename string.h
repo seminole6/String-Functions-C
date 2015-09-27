@@ -1,5 +1,5 @@
-#ifndef HW8_H
-#define HW8_H
+#ifndef STRING_H
+#define STRING_H
 #include <stdlib.h>
 
 /**
